@@ -12,6 +12,7 @@ int main()
         y++;
         answer += x; 
         cout<<answer<<endl;
+        //Karn jkhjhkjhkjhj
     }
     return 0;
 }
