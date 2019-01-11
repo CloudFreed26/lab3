@@ -4,9 +4,9 @@ using namespace std;
 
 int main()
 {
-    float answer=0,x=0,y=2 ;
+    float answer=0,x=0,y=6 ;
 
-    while(y<=69)
+    while(y<=19)
     {
         x = 1/y;
         y++;
